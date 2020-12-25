@@ -16,3 +16,12 @@ git commit
 git push 
 
 make a pull request
+
+Git Branching 
+Master Branch
+
+C1 > C2 > C3
+
+Feature Branch
+
+Branch early, branch often
